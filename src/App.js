@@ -12,6 +12,7 @@ import HeaderContainer from "./components/Header/HeaderContainer";
 import Login from "./components/Login/Login";
 
 const App = (props) => {
+    console.log('Hello world')
        return (
     <div className='app-wrapper'>
               <HeaderContainer />
