@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d161c75-ee0e-44e7-a12f-109ce58e79a7" name="Default Changelist" comment="initial commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1r6t1SNcDuymlrjwg9czhwsQnBI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../new-project/new/inna" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.1.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\it-kamasutra.com\putsamuraja\projects\01-first-project\kabzda-1\src\components\Users" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d161c75-ee0e-44e7-a12f-109ce58e79a7" name="Default Changelist" comment="" />
+      <created>1618308152685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618308152685</updated>
+      <workItem from="1618308154466" duration="21000" />
+      <workItem from="1619433132583" duration="310000" />
+      <workItem from="1619780161861" duration="1524000" />
+      <workItem from="1619844303243" duration="1217000" />
+      <workItem from="1619845608334" duration="776000" />
+      <workItem from="1619846615008" duration="1362000" />
+      <workItem from="1619931096701" duration="89000" />
+      <workItem from="1622637919010" duration="77000" />
+      <workItem from="1622648903655" duration="465000" />
+      <workItem from="1622650065896" duration="1248000" />
+      <workItem from="1622660813333" duration="748000" />
+      <workItem from="1622661714991" duration="150000" />
+      <workItem from="1622708901029" duration="1927000" />
+      <workItem from="1622800169943" duration="1678000" />
+      <workItem from="1622885175970" duration="3482000" />
+      <workItem from="1622891469871" duration="1549000" />
+      <workItem from="1622893044834" duration="10703000" />
+      <workItem from="1623000053138" duration="614000" />
+      <workItem from="1623047669441" duration="7666000" />
+      <workItem from="1623082078778" duration="865000" />
+      <workItem from="1623148741107" duration="1900000" />
+      <workItem from="1623310804534" duration="916000" />
+      <workItem from="1623562670969" duration="2082000" />
+      <workItem from="1623581565365" duration="3147000" />
+      <workItem from="1623664713406" duration="7822000" />
+      <workItem from="1623674844871" duration="2622000" />
+      <workItem from="1623693564476" duration="2092000" />
+      <workItem from="1623723003542" duration="254000" />
+      <workItem from="1623748322555" duration="2395000" />
+      <workItem from="1623849357312" duration="920000" />
+      <workItem from="1623903166166" duration="2536000" />
+      <workItem from="1624001355798" duration="6983000" />
+      <workItem from="1624076388265" duration="4650000" />
+      <workItem from="1624276367547" duration="4335000" />
+      <workItem from="1624345829849" duration="3889000" />
+      <workItem from="1624969392765" duration="697000" />
+      <workItem from="1625120800935" duration="909000" />
+      <workItem from="1625148450949" duration="1187000" />
+      <workItem from="1625331033669" duration="2315000" />
+      <workItem from="1625395909431" duration="112000" />
+      <workItem from="1625396058840" duration="4966000" />
+      <workItem from="1625478891035" duration="10962000" />
+      <workItem from="1625862101209" duration="2151000" />
+      <workItem from="1626080724146" duration="352000" />
+      <workItem from="1626081213318" duration="6769000" />
+      <workItem from="1626172236158" duration="2549000" />
+      <workItem from="1626252583786" duration="2122000" />
+      <workItem from="1626268125931" duration="1443000" />
+      <workItem from="1626271374363" duration="176000" />
+      <workItem from="1626343307256" duration="886000" />
+      <workItem from="1626344289018" duration="2602000" />
+      <workItem from="1626354367585" duration="2269000" />
+      <workItem from="1626420551743" duration="1655000" />
+      <workItem from="1626690168872" duration="4818000" />
+      <workItem from="1626695664693" duration="3435000" />
+      <workItem from="1626777265634" duration="1758000" />
+      <workItem from="1626850864775" duration="330000" />
+      <workItem from="1626859696648" duration="7598000" />
+      <workItem from="1627109491698" duration="13717000" />
+      <workItem from="1627458811382" duration="4845000" />
+      <workItem from="1627542182684" duration="1998000" />
+      <workItem from="1627923489318" duration="6286000" />
+      <workItem from="1628486576287" duration="7089000" />
+      <workItem from="1628568974012" duration="5073000" />
+      <workItem from="1628660148083" duration="10006000" />
+      <workItem from="1628706853669" duration="46000" />
+      <workItem from="1628743371544" duration="6414000" />
+      <workItem from="1628826544820" duration="7196000" />
+      <workItem from="1628870286074" duration="764000" />
+      <workItem from="1628881615550" duration="518000" />
+      <workItem from="1628914491595" duration="755000" />
+      <workItem from="1628920765853" duration="3298000" />
+      <workItem from="1628965927421" duration="1922000" />
+      <workItem from="1629088504045" duration="7200000" />
+      <workItem from="1629260634374" duration="1698000" />
+      <workItem from="1629349059139" duration="160000" />
+      <workItem from="1629349243029" duration="3038000" />
+      <workItem from="1631705230816" duration="19684000" />
+      <workItem from="1632733267315" duration="13578000" />
+      <workItem from="1633086010911" duration="3134000" />
+      <workItem from="1633428996202" duration="27566000" />
+      <workItem from="1633932083242" duration="1686000" />
+      <workItem from="1634278251199" duration="800000" />
+      <workItem from="1634452196660" duration="2586000" />
+      <workItem from="1634536197731" duration="14675000" />
+      <workItem from="1634741771179" duration="6899000" />
+      <workItem from="1635051413042" duration="945000" />
+      <workItem from="1635406255764" duration="8652000" />
+      <workItem from="1635753863520" duration="10941000" />
+      <workItem from="1635837278518" duration="671000" />
+      <workItem from="1635920637425" duration="6883000" />
+      <workItem from="1635929807276" duration="680000" />
+      <workItem from="1636009502910" duration="5062000" />
+      <workItem from="1636102880873" duration="10074000" />
+      <workItem from="1636450261977" duration="3156000" />
+      <workItem from="1636530037114" duration="1952000" />
+      <workItem from="1636532063112" duration="799000" />
+      <workItem from="1636621904795" duration="1897000" />
+      <workItem from="1636963727216" duration="11364000" />
+      <workItem from="1637756002440" duration="2213000" />
+      <workItem from="1637841694638" duration="4583000" />
+      <workItem from="1637943853060" duration="624000" />
+      <workItem from="1638895352613" duration="2040000" />
+      <workItem from="1639324593347" duration="3734000" />
+      <workItem from="1640672206264" duration="4998000" />
+      <workItem from="1640677368658" duration="86000" />
+      <workItem from="1640677536475" duration="4670000" />
+      <workItem from="1640760526299" duration="4070000" />
+      <workItem from="1640850346254" duration="348000" />
+      <workItem from="1641211416812" duration="2610000" />
+      <workItem from="1641371285075" duration="2585000" />
+      <workItem from="1641710168290" duration="2684000" />
+      <workItem from="1641809938309" duration="8553000" />
+      <workItem from="1641895469678" duration="1433000" />
+      <workItem from="1641897302976" duration="241000" />
+      <workItem from="1642232900981" duration="2205000" />
+      <workItem from="1642235659951" duration="104000" />
+      <workItem from="1642340429131" duration="1034000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/redux/store.js</url>
+          <line>39</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/Dialogs/DialogsContainer.js</url>
+          <line>9</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/Profile/MyPosts/MyPostsContainer.js</url>
+          <line>6</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/redux/Users-reduser.js</url>
+          <line>20</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/redux/Users-reduser.js</url>
+          <line>11</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/redux/profile-reducer.js</url>
+          <line>8</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node_modules/@types/react/index.d.ts</url>
+          <line>3050</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/Users/UsersContainer.jsx</url>
+          <line>13</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/Users/Users.jsx</url>
+          <line>14</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileStatus.jsx</url>
+          <line>14</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

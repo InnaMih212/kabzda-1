@@ -1,0 +1,7 @@
+.userPhoto {
+    width:100px ; /*ширина*/
+    height: 100px; /*высота*/
+}
+.selectedPage {
+    font-weight: bold;
+}
